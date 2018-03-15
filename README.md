@@ -1,4 +1,4 @@
-![.:. Sum of Odd Numbers -Pyramid .:.](sumofOddNumbers.png)
+![.:. Sum of Odd Numbers -Pyramid .:.](sumOfOddNumbers.png)
 
 ## CodeWars Challenge- 1
 
